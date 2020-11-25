@@ -1,0 +1,2 @@
+git config --global user.email "szucs.martin.gabor.2020e@ms.gdszeged.hu"
+  git config --global user.name "Szűcs Martin"
